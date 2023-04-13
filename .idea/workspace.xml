@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95fead0e-31d5-4136-b1e7-bdc3dbe939ec" name="Changes" comment="add: 724">
-      <change afterPath="$PROJECT_DIR$/py/205.py" afterDir="false" />
+    <list default="true" id="95fead0e-31d5-4136-b1e7-bdc3dbe939ec" name="Changes" comment="add: 205">
+      <change afterPath="$PROJECT_DIR$/py/392.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <workItem from="1681354108442" duration="1350000" />
       <workItem from="1681355573186" duration="2471000" />
       <workItem from="1681358075343" duration="374000" />
-      <workItem from="1681358593640" duration="2980000" />
+      <workItem from="1681358593640" duration="7127000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681356969163</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681358442183</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add: 205">
+      <created>1681361994080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681361994080</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +111,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="style:" />
     <MESSAGE value="add: 724" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: 724" />
+    <MESSAGE value="add: 205" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 205" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcoding$1480.coverage" NAME="1480 Coverage Results" MODIFIED="1681356466551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
