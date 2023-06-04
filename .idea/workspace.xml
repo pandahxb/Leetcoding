@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95fead0e-31d5-4136-b1e7-bdc3dbe939ec" name="Changes" comment="add: 205">
-      <change afterPath="$PROJECT_DIR$/py/392.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py/1768.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py/1480.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/1480.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py/205.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/205.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py/392.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/392.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py/724.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/724.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OLkQT8sUFHphr4q8CZGzgOsaLX" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -38,6 +42,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -71,6 +76,10 @@
       <workItem from="1681355573186" duration="2471000" />
       <workItem from="1681358075343" duration="374000" />
       <workItem from="1681358593640" duration="7127000" />
+      <workItem from="1685882839702" duration="27000" />
+      <workItem from="1685882870610" duration="145000" />
+      <workItem from="1685883022294" duration="74000" />
+      <workItem from="1685883150032" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681356969163</created>

@@ -1,5 +1,6 @@
 class Solution:
-    def isIsomorphic(self, s: str, t: str) -> bool:
+    @staticmethod
+    def isIsomorphic(s: str, t: str) -> bool:
 
         # Different length are not isomorphic
         if len(s) != len(t):

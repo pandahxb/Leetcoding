@@ -2,7 +2,8 @@ from typing import List
 
 
 class Solution:
-    def runningSum(self, nums: List[int]) -> List[int]:
+    @staticmethod
+    def runningSum(nums: List[int]) -> List[int]:
         running_sum = 0
         result = []
         for num in nums:
