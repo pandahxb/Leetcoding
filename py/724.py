@@ -2,8 +2,7 @@ from typing import List
 
 
 class Solution:
-    @staticmethod
-    def pivotIndex(nums: List[int]) -> int:
+    def pivotIndex(self, nums: List[int]) -> int:
         total = sum(nums)
         left_sum = 0
         for i, num in enumerate(nums):
