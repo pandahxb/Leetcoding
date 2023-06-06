@@ -4,5 +4,6 @@ class Solution:
             return ""
         return str1[:self.gcd(len(str1), len(str2))]
 
+    # Euclidean algorithm
     def gcd(self, a, b):
         return a if b == 0 else self.gcd(b, a % b)
